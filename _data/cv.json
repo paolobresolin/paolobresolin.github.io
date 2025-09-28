@@ -1,32 +1,32 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Paolo Bresolin",
+    "email": "paolo.bresolin.2@phd.unipd.it",
+    "phone": "+39 342 011 8061",
+    "website": "https://paolobresolin.github.io",
+    "summary": "PhD candidate in Computer Engineering at the University of Padova, Italy.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Via Gradenigo 6/B",
+      "postalCode": "35131",
+      "city": "Padova",
+      "countryCode": "IT",
+      "region": "Venetp"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Paolo Bresolin",
+        "url": "https://scholar.google.com/citations?user=OsWrAxQAAAAJ&hl=en&oi=ao"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Paolo Bresolin",
+        "url": "https://orcid.org/0009-0001-5294-0649"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "paolobresolin",
+        "url": "https://github.com/paolobresolin"
       }
     ]
   },
