@@ -13,5 +13,5 @@ I am part of the [AIDA Lab](https://aidalabdei.github.io/) and of the [DSH Lab](
 Research Interests
 ======
 My research interests primarly involve algorithms for **Machine Learning** and **Data Mining**, both from a theoretical point of view and from a more applicative perspective, with a particular focus on **Biomedical data**.
-With the AIDA lab I am working on efficient and scalable approximation algorithms with guarantees to solve data mining problems on complex data structures such as graphs.
+With the AIDA Lab I am working on efficient and scalable approximation algorithms with guarantees to solve data mining problems on complex data structures such as graphs.
 As part of the DSH group, instead, I am applying cutting-edge **Deep Learning** architectures on real biomedical data, often multimodal, to deal with practical tasks.
